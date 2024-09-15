@@ -11,7 +11,7 @@
     "NativeNetwork"           : "yandex",
     "OpenAdNetwork"           : "yandex",
    
-    "IntervalClick"           : 2,
+    "IntervalClick"           : 1,
 
     "Ironsource_appid"        : "85460dcd",
     
