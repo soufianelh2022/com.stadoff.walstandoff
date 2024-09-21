@@ -1,7 +1,7 @@
 {
   "appRedirect": {
-    "status"      : false,
-    "redirectURL" : ""
+    "status"      : true,
+    "redirectURL" : "com.samaz.allsaver"
   },
   
  "AdsController": {
