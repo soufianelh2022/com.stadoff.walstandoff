@@ -1,6 +1,6 @@
 {
   "appRedirect": {
-    "status"      : true,
+    "status"      : false,
     "redirectURL" : "com.samaz.allsaver"
   },
   
